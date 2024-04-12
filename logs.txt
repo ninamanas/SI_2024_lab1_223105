@@ -1,0 +1,53 @@
+commit 149caefb796dced948fbdcf795f3a400daa1ab57
+Author: ninamanas <ninamanasievska@gmail.com>
+Date:   Fri Apr 12 20:17:58 2024 +0200
+
+    Popraveno
+
+commit 45d9050eec5742d0d98c2a2bfb4631851070c5d3
+Author: ninamanas <ninamanasievska@gmail.com>
+Date:   Fri Apr 12 19:32:00 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 27cb9b8d46877d4473ff730d0d5f8b2fa1e22d38
+Author: ninamanas <ninamanasievska@gmail.com>
+Date:   Fri Apr 12 20:05:59 2024 +0200
+
+    Call method filterOddLengthStrings in main class.
+
+commit 067e81db167952973fb0a80565036df7b112d7c6
+Author: ninamanas <ninamanasievska@gmail.com>
+Date:   Fri Apr 12 19:55:46 2024 +0200
+
+    Add starter code
+
+commit 3ef8d278cda02f215ca6e9e63d69b84e1f68bbd7
+Author: ninamanas <ninamanasievska@gmail.com>
+Date:   Fri Apr 12 19:48:09 2024 +0200
+
+    Add starter code
+
+commit c57fefead67eb8dcc5f91f3f80074248718c22b1
+Author: ninamanas <ninamanasievska@gmail.com>
+Date:   Fri Apr 12 19:30:32 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 814bc29fdeffa4b224560a9c757757b2d59cc732
+Author: ninamanas <ninamanasievska@gmail.com>
+Date:   Fri Apr 12 18:31:54 2024 +0200
+
+    Add starter code
+
+commit c588649551f1c719cdaaf45ecee5e658da732784
+Author: ninamanas <ninamanasievska@gmail.com>
+Date:   Fri Apr 12 18:15:59 2024 +0200
+
+    Initial commit
+
+commit c6aa11fc7660439848c6b9bb7dc55b706efdf760
+Author: ninamanas <ninamanasievska@gmail.com>
+Date:   Fri Apr 12 18:07:11 2024 +0200
+
+    initial commit
